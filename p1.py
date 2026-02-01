@@ -1,1 +1,0 @@
-print("genesis-core FIX2")
